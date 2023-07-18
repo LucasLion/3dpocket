@@ -1,0 +1,11 @@
+prefix=/home/noil/code/FunKey-sdk-2.3.0
+exec_prefix=/home/noil/code/FunKey-sdk-2.3.0
+libdir=/home/noil/code/FunKey-sdk-2.3.0/lib
+includedir=/home/noil/code/FunKey-sdk-2.3.0/include
+
+Name: fdisk
+Description: fdisk library
+Version: 2.36.0
+Requires.private: uuid blkid
+Cflags: -I${includedir}/libfdisk
+Libs: -L${libdir} -lfdisk

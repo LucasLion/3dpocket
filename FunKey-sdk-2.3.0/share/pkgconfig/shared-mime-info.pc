@@ -1,0 +1,8 @@
+prefix=/home/noil/code/FunKey-sdk-2.3.0
+
+Name: shared-mime-info
+Description: Freedesktop common MIME database
+Version: 1.12
+Requires:
+Libs:
+Cflags:

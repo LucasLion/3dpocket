@@ -1,0 +1,12 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libopk
+Description: library to read files from OPK archives
+Version: 1.0
+
+Requires:
+Libs: -L${libdir} -ini -lopk
+Cflags: -I${includedir}

@@ -1,0 +1,22 @@
+=head2 Sun Jun 20 00:04:11 2021: C<Module> L<XML::Parser|XML::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: /home/noil/code/FunKey-sdk-2.3.0/lib/perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.46>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
